@@ -1,10 +1,5 @@
 # LiterAlura - Challenge Back End ONE
 
-<p align="center">
- <img src="https://d335luupugsy2.cloudfront.net/cms/files/10224/1662417840/$p28qj3ehjl" width="400" />
- <img src="https://d335luupugsy2.cloudfront.net/cms/files/10224/1662417840/$u07pzwncrr" width="400" />
-</p>
-
 ## Descrição
 O LiterAlura é um catálogo de livros interativo desenvolvido em Java que oferece funcionalidades para buscar, armazenar e manipular dados de livros e autores. Utilizando uma API específica, o sistema permite aos usuários realizar diversas interações via console.
 
